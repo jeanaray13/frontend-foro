@@ -18,6 +18,7 @@ La sección del frontend se fundamenta en React para el desarrollo de aplicacion
 ![image](https://github.com/jeanaray13/frontend-foro/blob/main/Snapshots/Bienvenida.png)
 
 **URL del Frontend (Foro):** http://localhost:3000/foro
+
 ![image](https://github.com/jeanaray13/frontend-foro/blob/main/Snapshots/Foro.png)
 
 
