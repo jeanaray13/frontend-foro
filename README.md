@@ -21,7 +21,7 @@ La sección del frontend se fundamenta en React para el desarrollo de aplicacion
 ![image](https://github.com/jeanaray13/frontend-foro/blob/main/Snapshots/Foro.png)
 
 
-## Requerimiento
+## Requerimientos
 
 * **Node JS:** https://nodejs.org/en/download
 * **Visual Studio Code:** https://code.visualstudio.com/download
